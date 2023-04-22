@@ -8,7 +8,7 @@ This application is use for ticket system
 -   Clone the Repo:  
     
 -   > git clone  https://github.com/eminengul/TicketSystem.git
--   > cd Ticket
+-   > cd TicketSystem
 -   > composer install or composer update
 -   > Set up .env file
 -   > php artisan key:generate
